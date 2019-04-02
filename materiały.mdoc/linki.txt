@@ -1,0 +1,10 @@
+https://www.slideshare.net/MarcinStachniuk/continuous-delivery-in-oss-using-shipkitorg
+https://mstachniuk.github.io/talks/
+https://bintray.com/shipkit-bootstrap/bootstrap/maven/1.0.3#
+https://travis-ci.org/RobertPod/shipkit-workshop-10/jobs/514774767
+
+https://travis-ci.org/RobertPod by github
+https://github.com/RobertPod/shipkit-workshop-10
+
+https://github.com/mockito/shipkit
+https://gradle.org/
